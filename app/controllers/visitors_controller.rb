@@ -1,7 +1,7 @@
 class VisitorsController < ApplicationController
   def new
 	@visitor = Visitor.new
-	end
+  end
 	def create
 		@visitor = Visitor.new(secure_params)
 		if @visitor.save
@@ -11,8 +11,12 @@ class VisitorsController < ApplicationController
 			redirect_to :root
 		end
 	end
+	def index
+		@visitors = Visitor.all		
+	end
 	private
 	def secure_params
 		params.require(:visitor).permit(:favorite, :comment)
 	end
+	
 end
