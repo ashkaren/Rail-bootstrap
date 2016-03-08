@@ -1,0 +1,18 @@
+<table class="table table-striped">
+	<thead>
+		  <tr>
+		    <th>Id</th>
+		    <th>Favorite</th>
+		    <th>Comment</th>
+		  </tr>
+  	</thead>
+  	<tbody>
+		<% @order.visitors.each do |visitor| %>
+		  <tr>
+		    <td><%= visitor.id %></td>
+		    <td><%= visitor.favorite %></td>
+		    <td><%= visitor.comment %></td>
+		  </tr>
+		<% end %>
+	</tbody>
+</table>
