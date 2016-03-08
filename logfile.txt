@@ -1,0 +1,59 @@
+commit 063d9acab14dd0999f1a7266e0e3a55558039f0e
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 15:17:48 2016 -0500
+
+    gem heroku
+
+commit c9e0ae859f7897a29d42804c46a9338faa4a6d9f
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 14:54:41 2016 -0500
+
+    popupwindow
+
+commit 6aa73d0386d8ffd3e679c0f1f36cb56064092fd4
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 14:48:59 2016 -0500
+
+    fav form
+
+commit c566bc62e3231544611072ace090813d6a1cf4ba
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 14:07:47 2016 -0500
+
+    home page carousel
+
+commit eba8c184aaa434191f2c28ef48d6de69fc0baff2
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 13:42:58 2016 -0500
+
+    about
+
+commit 8d845c167b7e2e9046f7daa702c1da2e2fdb16c2
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 13:25:58 2016 -0500
+
+    7 step
+
+commit 00094e15fbdf498b54219606bf14ffe049919ff3
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 13:07:51 2016 -0500
+
+    simple form and scss
+
+commit a11a5ab2a7a68f0cecc560bc8a65d6572fbc76ef
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 12:49:07 2016 -0500
+
+    visitorcontr
+
+commit 638cc89d27e3b45f7cad0104828a71d90d26bf15
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 12:40:25 2016 -0500
+
+    gems
+
+commit 9a254a4271fe276db327b895857ad8011090bb07
+Author: ashkaren <gvevtodiev@gmail.com>
+Date:   Tue Mar 8 12:28:35 2016 -0500
+
+    create
